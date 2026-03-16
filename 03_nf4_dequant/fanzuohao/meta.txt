@@ -1,0 +1,11 @@
+N           16777216
+num_blocks  262144
+num_groups  1024
+blocksize   64
+blocksize2  256
+offset      2.5952651501
+seg_packed  40
+seg_absmax_q 8388648
+seg_code2   8650792
+seg_absmax2 8651816
+seg_gt      8655912

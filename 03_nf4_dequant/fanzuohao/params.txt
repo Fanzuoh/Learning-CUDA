@@ -1,0 +1,6 @@
+blocksize    = 64
+compute_type = "fp16"
+target_gpu   = "A100"
+output_path  = "output.bin"
+num_rows     = 4096
+num_cols     = 4096
